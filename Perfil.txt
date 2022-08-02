@@ -1,1 +1,3 @@
 Botao de editar perfil
+nome de user
+email
